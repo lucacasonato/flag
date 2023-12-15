@@ -1,0 +1,5 @@
+{
+  "name": "@luca/flag",
+  "version": "1.0.0",
+  "exports": "./main.ts"
+}
